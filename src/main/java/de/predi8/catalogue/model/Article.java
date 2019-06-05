@@ -1,6 +1,7 @@
 package de.predi8.catalogue.model;
 
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import java.math.BigDecimal;
 

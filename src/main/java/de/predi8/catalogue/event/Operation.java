@@ -12,7 +12,6 @@ import java.util.Map;
 public class Operation {
 
 	private static final Logger log = LoggerFactory.getLogger(Operation.class);
-
 	private String bo;
 	private String action;
 	private JsonNode object;
